@@ -2,15 +2,15 @@
   "Group": "dev.hytalemodding",
   "Name": "ExamplePlugin",
   "Version": "1.0.0",
-  "Description": "Description of your plugin",
+  "Description": "Modjam of January 2026",
   "Authors": [
     {
-      "Name": "Your Name",
-      "Email": "your.email@example.com",
-      "Url": "https://your-website.com"
+      "Name": "Slibz",
+      "Email": "",
+      "Url": "https://github.com/EnzoCortinovis"
     }
   ],
-  "Website": "https://your-plugin-website.com",
+  "Website": "",
   "ServerVersion": "*",
   "Dependencies": {},
   "OptionalDependencies": {},
